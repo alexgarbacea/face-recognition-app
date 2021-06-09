@@ -2,6 +2,8 @@
 
 This is the front end part of the project face-recognition-app.
 
+You can access the working app [here](https://face-detection-alex.herokuapp.com/)
+
 You can access the code for the back-end [here](https://github.com/alexgarbacea/face-recognition-api-server)
 
 The app uses ReactJs and NodeJs and is hosted using Heroku and PostgreSql
