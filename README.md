@@ -1,3 +1,9 @@
+This is the front end part of the project face-recognition-app.
+
+You can access the code for the back-end here: [https://github.com/alexgarbacea/face-recognition-api-server]
+
+The app uses ReactJs and NodeJs and is hosted using Heroku and PostgreSql
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
